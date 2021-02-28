@@ -21,7 +21,7 @@ Initial draft of a website.
   Pasticceria Ravanelli 🚧 Em construção 🚧
 </h4>
   
-# ### Features
+<h1 align="center"> Características</h1>
 
 - [x] Receber feedbacks.
 - [x] Cadastrar clientes.
