@@ -19,13 +19,12 @@ Initial draft of a website.
 
 <h4 align="center">
   Pasticceria Ravanelli 🚧 Em construção 🚧
-  <h/>4
+</h4>
   
 # ### Features
 
 -[x] Receber encomendas.
-- [x] Oferecer qualidade e variedade nos produtos.
-- [ x] Cadastrar clientes. 
 - [x] Receber feedbacks.
-
+- [x] Cadastrar clientes.
+- [] Pagamento pelo site.
 
