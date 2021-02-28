@@ -22,6 +22,7 @@ Initial draft of a website.
   <h/>4
   
 # ### Features
+
 -[x] Receber encomendas;
 -[x] Receber feedbacks;
 -[x] Cadastrar clientes/compradores;
