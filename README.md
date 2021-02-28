@@ -23,7 +23,7 @@ Initial draft of a website.
   
 # ### Features
 
--[x] Receber encomendas;
--[x] Receber feedbacks;
--[x] Cadastrar clientes/compradores;
+-[x] Receber encomendas.
+-[x] Receber feedbacks.
+-[x] Cadastrar clientes/compradores.
 - [x] Oferecer qualidade e variedade nos produtos.
