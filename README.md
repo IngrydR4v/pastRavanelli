@@ -23,8 +23,7 @@ Initial draft of a website.
   
 # ### Features
 
--[x] Receber encomendas.
 - [x] Receber feedbacks.
 - [x] Cadastrar clientes.
-- [] Pagamento pelo site.
-
+- [x] Receber encomendas.
+- [ ] Pagamento pelo site.
