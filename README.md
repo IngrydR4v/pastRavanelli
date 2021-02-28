@@ -18,7 +18,8 @@ Initial draft of a website.
 <h4 align="center">
   🚧 Projeto em construção 🚧
 </h4>
-  <h1 align ="center"> Características iniciais </h1>
+
+#Características iniciais
 
 - [x] Receber feedbacks.
 - [x] Cadastrar clientes.
