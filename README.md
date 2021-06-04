@@ -21,7 +21,7 @@ Initial draft of a website.
 
 #Características iniciais
 
-- [x] Receber feedbacks.
-- [x] Cadastrar clientes.
-- [x] Receber encomendas.
-- [ ] Pagamento pelo site.
+- [x] Expor os produtos de forma simples e atrativa;
+- [x] Gerar envolvimento com os clientes;
+- [ x] Garantir a praticidade na escolha, pagamento e entrega dos pedidos;
+- [x] Oferecer um ambiente onde o cliente sinta-se "em casa".
