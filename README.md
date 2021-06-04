@@ -24,3 +24,4 @@ Initial draft of a website.
 - [x] Expor os produtos de forma simples e atrativa;
 - [x] Gerar envolvimnto com os clientes; 
 - [x] Oferecer um ambiente onde o cliente sinta-se "em casa".
+- [ x] Garantir
